@@ -1,0 +1,27 @@
+<!--
+Copyright amir javanmir
+Released on: June 24, 2025
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZooM Gallery</title>
+    <link href="./styles.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div class="vanilla-zoom" id="my-gallery">
+        <div class="sidebar">
+            <img src="images/image1.jpg" alt="Image 1" class="small-preview">
+            <img src="images/image2.jpg" alt="Image 2" class="small-preview">
+            <img src="images/image3.jpg" alt="Image 3" class="small-preview">
+        </div>
+        <div class="zoomed-image"></div>
+    </div>
+    <script src="./script.js"></script>
+    <script>
+        zoomGallery.init("#my-gallery");
+    </script>
+</body>
+</html>
