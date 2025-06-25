@@ -3,8 +3,6 @@
 ```markdown
 # ZooM Gallery - Vanilla JavaScript Image Zoom Gallery
 
-![Demo](demo.gif) <!-- Add a demo GIF if available -->
-
 A lightweight, dependency-free JavaScript image gallery with zoom functionality. Perfect for showcasing product images or photo collections.
 
 ## Features
@@ -62,20 +60,9 @@ The default mobile breakpoint is 768px. Adjust in `styles.css` as needed.
 Works in all modern browsers (Chrome, Firefox, Safari, Edge). IE11 is not supported.
 
 ## License
-Copyright © 2025 Amir Javanmir. Released under the [MIT License](LICENSE).
+Copyright © 2025 Amir Javanmir.
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-## Demo
-See live demo: [https://your-demo-url.com](https://your-demo-url.com) <!-- Add your demo URL -->
 ```
-
-### Tips for an even better README:
-1. Add a "Getting Started" section with more detailed setup instructions
-2. Include a "Troubleshooting" section for common issues
-3. Add a "Roadmap" section for planned features
-4. Include screenshots or a GIF showing the gallery in action
-5. Add badges for build status, version, etc. if applicable
-
-Would you like me to add any specific sections or modify any part of this README?
