@@ -61,4 +61,3 @@ Works in all modern browsers (Chrome, Firefox, Safari, Edge). IE11 is not suppor
 
 ## License
 Copyright © 2025 Amir Javanmir.
-```
